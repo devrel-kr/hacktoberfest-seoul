@@ -1,11 +1,25 @@
-# Hacktoberfest Seoul #
+# Hacktoberfest Seoul | 핵토버페스트 서울 #
 
-핵토버페스트 서울
+핵토버페스트 서울 온라인 행사를 위한 리포지토리입니다.
 
 
 ## 진행 매뉴얼 ##
 
-TBD
+### 진행자/기획자 ###
+
+* [이벤트 생성 및 홍보](manuals/event-promotion.md)
+* [방문자 트래킹](manuals/event-tracking.md)
+* [라이브 스트리밍](manuals/live-streaming.md)
+
+
+### 발표자 ###
+
+* [발표자 트레이닝](manuals/speaker-training.md)
+
+
+### 참가자 ###
+
+* [온라인 채팅](manuals/event-chatting.md)
 
 
 ## 핵토버페스트 서울 참가자와 주최자/진행자의 약속 (Code of Conduct) ##
