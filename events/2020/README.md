@@ -21,8 +21,8 @@
 * 세션 1: 박형근 (한화정밀기계)
 * 세션 2: 변정훈 (ODK Media)
 * 세션 3: 서지연 (네이버)
-* 세션 4: 이보라 (xxx)
-* 세션 5: 조은 (xxx)
+* 세션 4: 이보라 (Women Who Code Seoul)
+* 세션 5: 조은 (데이블)
 * 버추얼 핸즈온
 * 클로징 키노트
 
@@ -85,7 +85,7 @@
 
 [프사]
 
-* [Google Developers Experts](https://developers.google.com/community/experts)
+* [데이블](https://dable.io/)
 * TBA
 
 

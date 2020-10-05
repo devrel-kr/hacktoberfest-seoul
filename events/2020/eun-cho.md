@@ -2,7 +2,7 @@
 
 [프사]
 
-* 소속: [Google Developers Experts](https://developers.google.com/community/experts)
+* 소속: [데이블](https://dable.io/)
 * 자기소개
 * 소셜미디어
   * 트위터:
