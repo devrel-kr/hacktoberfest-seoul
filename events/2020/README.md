@@ -18,8 +18,8 @@
 ## 진행 순서 ##
 
 * 오프닝 키노트
-* 세션 1: 박형근 (한화정밀화학)
-* 세션 2: 변정훈 (온디맨드코리아)
+* 세션 1: 박형근 (한화정밀기계)
+* 세션 2: 변정훈 (ODK Media)
 * 세션 3: 서지연 (네이버)
 * 세션 4: 이보라 (xxx)
 * 세션 5: 조은 (xxx)
@@ -70,10 +70,15 @@
 
 ### 이보라 ###
 
-[프사]
+![이보라](https://avatars3.githubusercontent.com/u/6451384?s=460&u=759c2c20d3ae4ec35b300a67a3f98c732508bec0&v=4)
 
 * [Women Who Code Seoul](https://www.womenwhocode.com/seoul)
-* TBA
+* 읽기와 배우기를 좋아하는 프런트엔드 개발자입니다. 포켓몬고 만랩을 찍기위해 서울숲을 거닙니다.
+* 소셜미디어
+  * [깃헙](https://github.com/Violet-Bora-Lee)
+  * [트위터](https://twitter.com/LearnerBR)
+  * [페이스북](https://www.facebook.com/violetbora.lee.3)
+  * [링크드인](https://www.linkedin.com/in/bora-lee-01939829/)
 
 
 ### 조은 ###
