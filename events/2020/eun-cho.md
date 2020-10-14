@@ -1,6 +1,6 @@
 # 조은 (techhtml) #
 
-[https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/12728819_970830132999965_8027194908379102848_n.jpg]
+![](https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/12728819_970830132999965_8027194908379102848_n.jpg)
 
 * 소속: [데이블](https://dable.io/)
 * Dable에서 시니어 프런트 엔드 개발자로 근무하고 있고, Web GDE로도 활동하고 있는 조은입니다.
