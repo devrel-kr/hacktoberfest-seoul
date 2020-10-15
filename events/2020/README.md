@@ -111,7 +111,7 @@
 
 ## 행사 스폰서 ##
 
-![Microsoft](sponsor-microsoft.png)
+[![Microsoft](sponsor-microsoft.png)](https://microsoft.com/ko-kr/?WT.mc_id=opensource-9736-juyoo)
 
 
 ## 행사 참가자 및 주최자/진행자를 위한 우리의 약속 (Code of Conduct) ##
