@@ -79,7 +79,7 @@
 
 * [ODK Media](https://www.odkmedia.net/)
 * 코딩을 좋아하고 오픈소스 문화를 좋아하는 개발자입니다. 종종 글도 씁니다.
-* [깃헙](https://github.com/outsideris) | [트위터](https://twitter.com/outsideris) | [페이스북](https://web.facebook.com/jeonghoon.byun) | [링크트인](https://www.linkedin.com/in/outsideris/)
+* [깃헙](https://github.com/outsideris) | [트위터](https://twitter.com/outsideris) | [페이스북](https://web.facebook.com/jeonghoon.byun) | [링크드인](https://www.linkedin.com/in/outsideris/)
 
 
 ### 서지연 (a.k.a 치즈) ###
@@ -107,6 +107,11 @@
 * [데이블](https://dable.io/)
 * Dable에서 시니어 프런트 엔드 개발자로 근무하고 있고, Web GDE로도 활동하고 있는 조은입니다. 운동과 치킨을 좋아하고, 쉬는 날이면 글과 유튜브를 합니다.
 * [깃헙](http://github.com/techhtml) | [블로그](http://medium.com/@euncho) | [트위터](https://twitter.com/euncho__) | [유튜브](https://www.youtube.com/channel/UCKxy9X-bU78MqvUsMTn_wVw)
+
+
+## 행사 스폰서 ##
+
+![Microsoft](sponsor-microsoft.png)
 
 
 ## 행사 참가자 및 주최자/진행자를 위한 우리의 약속 (Code of Conduct) ##
